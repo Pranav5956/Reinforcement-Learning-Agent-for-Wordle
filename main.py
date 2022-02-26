@@ -1,5 +1,6 @@
 import argparse
 from config import *
+from env import WordleEnv
 
 
 def main() -> None:
